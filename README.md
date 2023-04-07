@@ -48,3 +48,10 @@ https://chaintool.app/#/vanity-address/index
 
 ###### ETH单位转换器
 https://chaintool.app/#/tool/unit
+
+
+社交媒体访问：
+
+[💬 Telegram](https://t.me/chaintool_app)
+
+[🐦 Twitter](https://twitter.com/chain_tool)
