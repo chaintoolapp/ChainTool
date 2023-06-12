@@ -11,6 +11,8 @@
 https://chaintool.app/#/launchpad/standard 
 
 ###### 一键发币
+https://chaintool.app/#/coin/standard  标准代币
+
 https://chaintool.app/#/coin/normal  普通代币
 
 https://chaintool.app/#/coin/marketing 营销代币
@@ -18,6 +20,10 @@ https://chaintool.app/#/coin/marketing 营销代币
 https://chaintool.app/#/coin/dividend  分红代币
 
 https://chaintool.app/#/coin/compound  复利代币
+
+https://chaintool.app/#/coin/lpdividend  加池分红
+
+https://chaintool.app/#/coin/snapshot 快照
 
 ###### 创建挖矿
 https://chaintool.app/#/mining/standard
